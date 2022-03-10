@@ -6,7 +6,8 @@ package projectf4;
 
 /**
  *
- * @author hp
+ * @author Navjeet Kaur
+ * @author Arshpreet Kaur
  */
 public class ProjectF4 {
 

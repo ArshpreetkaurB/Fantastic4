@@ -6,9 +6,10 @@ package projectf4;
 
 /**
  *
- *@author Arshpal Singh
+ * @author Arshpal Singh
  * @author Navjeet Kaur
  * @author Arshpreet Kaur
+ * @author Arunpal Singh
  */
 public class ProjectF4 {
 

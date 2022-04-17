@@ -1,5 +1,12 @@
 package cardgame;
-
+/**
+ * This class models generating Cards in hand.
+ *
+ * @author Arunpal Singh
+ * @author Arshpreet Kaur
+ * @author Navjeet Kaur
+ *
+ */
 import cardgame.Card.Suit;
 import cardgame.Card.Value;
 import java.util.Random;

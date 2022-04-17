@@ -11,7 +11,7 @@ package projectf4;
  * @author Arshpreet Kaur
  * @author Arunpal Singh
  */
-public class CardGame {
+public class ProjectF4 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

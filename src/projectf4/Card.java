@@ -1,5 +1,9 @@
-package cardgame;
-
+package projectf4;
+/**
+ * This class models the Card. 
+ *
+ *  @author Arshpal Singh Arshpal Singh
+ */
 
 public class Card {
     public enum Suit {

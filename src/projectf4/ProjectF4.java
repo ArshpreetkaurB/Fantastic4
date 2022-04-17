@@ -5,11 +5,11 @@
 package projectf4;
 
 /**
- *
- * @author Arshpal Singh
+ *This class models the game Match and Win
+ * 
  * @author Navjeet Kaur
  * @author Arshpreet Kaur
- * @author Arunpal Singh
+ * 
  */
 import projectf4.Card.Suit;
 import projectf4.Card.Value;

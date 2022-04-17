@@ -1,4 +1,4 @@
-package cardgame;
+package projectf4;
 /**
  * This class models generating Cards in hand.
  *
